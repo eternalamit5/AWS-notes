@@ -1,1 +1,1 @@
-# AWS-notes
+# AWS Certified Cloud Practitioner notes
