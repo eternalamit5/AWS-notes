@@ -1,4 +1,4 @@
-# AWS Cloud Practitioner Udemy Course Notes (Stephane Maarek)
+# AWS Cloud Practitioner Notes
 
 ## Table of Contents
 - [Section 3 - What is Cloud Computing](https://github.com/abhinavcreed13/tech-certifications/blob/main/CLF-C01%20(AWS%20Cloud%20Practitioner)/CP-Stephane-Udemy-Course-Notes/sections/%233%20-%20What%20is%20Cloud%20Computing.md)
