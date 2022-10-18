@@ -137,3 +137,7 @@
 ## EC2 Summary
 
 ![../images/section5/Untitled%2030.png](../images/section5/Untitled%2030.png)
+
+## Note:
+1. If there is a time out issue then it due to EC2 security group.
+Remedy: go to your security groups and check whethe it is correct or not.
