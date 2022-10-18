@@ -1,7 +1,7 @@
 # AWS Cloud Practitioner Notes
 
 ## Table of Contents
-- [Section 3 - What is Cloud Computing](https://github.com/abhinavcreed13/tech-certifications/blob/main/CLF-C01%20(AWS%20Cloud%20Practitioner)/CP-Stephane-Udemy-Course-Notes/sections/%233%20-%20What%20is%20Cloud%20Computing.md)
+- [Section 3 - What is Cloud Computing](https://github.com/eternalamit5/AWS-notes/tree/main/AWS%20Certified%20Cloud%20Practitioner/sections/%233%20-%20What%20is%20Cloud%20Computing.md)
 - [Section 4 - IAM - Identity and Access Management](https://github.com/abhinavcreed13/tech-certifications/blob/main/CLF-C01%20(AWS%20Cloud%20Practitioner)/CP-Stephane-Udemy-Course-Notes/sections/%234%20-%20IAM%20-%20Identity%20and%20Access%20Management.md)
 - [Section 5 - EC2 - Elastic Compute Cloud](https://github.com/abhinavcreed13/tech-certifications/blob/main/CLF-C01%20(AWS%20Cloud%20Practitioner)/CP-Stephane-Udemy-Course-Notes/sections/%235%20-%20EC2%20-%20Elastic%20Compute%20Cloud.md)
 - [Section 6 - EC2 Instance Storage](https://github.com/abhinavcreed13/tech-certifications/blob/main/CLF-C01%20(AWS%20Cloud%20Practitioner)/CP-Stephane-Udemy-Course-Notes/sections/%236%20-%20EC2%20Instance%20Storage.md)
